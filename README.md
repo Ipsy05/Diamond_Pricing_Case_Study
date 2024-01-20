@@ -1,4 +1,4 @@
-# EDA_Diamond_Pricing_Case_Study
+# Diamond_Pricing_Case_Study
 Explore diamond characteristics and pricing trends using data analysis and visualization with Matplotlib in Python. Code for scatter plots, box plots, and insights. 
 
 Embark on a fascinating journey into the world of diamonds with this comprehensive exploratory data analysis (EDA) case study. This Jupyter notebook provides a deep dive into the intricate relationship between various diamond attributes and their prices. Leveraging Python and Matplotlib, the code showcases dynamic visualizations, including pie charts, scatter plots, and box plots.
